@@ -1,0 +1,2 @@
+# Neural-Network-Diabetes-Prediction-with-Backpropagation-and-MLP
+This project implements a diabetes prediction model using neural networks. It includes both a manual implementation of a neural network (using backpropagation) and a library-based implementation (using tools like Scikit-learn or TensorFlow), with a focus on comparing their performance in terms of accuracy and other evaluation metrics.
